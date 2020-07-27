@@ -1,0 +1,22 @@
+Capstone Project - The Battle of Neighborhoods
+
+Introduction:
+Background: People say Toronto is a city that reveals itself over time. It grows on you until suddenly you realize that there’s nowhere else in the world you’d rather be. As a foodie I really want to visit Toronto and try it’s restaurants.
+Problem: Where I can stay while there’s a handful of restaurants nearby.
+
+Data source:
+the information is from Foursquare website by linking it’s API and includes restaurant and hotel data. 
+Methodology section: 
+
+Data Cleaning:
+-Reformat some of the column names and category value to make the dataset easier to ready. 
+Feature Selection:
+-Drop a handful of columns that are unrelated to the problem we defined.
+
+ML method: using folium function to plot the clusters 
+Results: the density of restaurants and hotels is pretty high between Toronto union station and University of Toronto
+Discussion: the density of restaurants and hotels is pretty high between Toronto union station and University of Toronto.  From Dundas st to Gerrard st, there’re a handful food options.
+Conclusion: I would stay at double tree by hiltion hotel in Dundas st since lots of restaurants nearby. 
+
+Doc: https://github.com/Zchangchang007/applied-data-science-capstone/blob/master/Capstone%20Project.docx
+
